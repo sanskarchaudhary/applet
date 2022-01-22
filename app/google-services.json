@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "109222056685",
+    "firebase_url": "https://applet-c9b84-default-rtdb.firebaseio.com",
+    "project_id": "applet-c9b84",
+    "storage_bucket": "applet-c9b84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109222056685:android:6dd44268a9c5fcdebcb2e4",
+        "android_client_info": {
+          "package_name": "com.example.applet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109222056685-vsrl16dc64dscrir7f0e6jjro0bequek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb63Z9r52Ox9whcfs_dwdVxH1UVz-jsgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109222056685-vsrl16dc64dscrir7f0e6jjro0bequek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
